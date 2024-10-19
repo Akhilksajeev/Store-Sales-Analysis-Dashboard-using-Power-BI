@@ -11,7 +11,7 @@ Displayed sales trends by year, profit by month, and sales distribution by categ
  
 Utilized geospatial analysis to visualize sales and profit distribution by state.
  
- Key metrics such as total sales ($1.6M), profit ($175K), and  Implemented DAX functions for calculations of average delivery days.
+ Key metrics such as total, profit, and  Implemented DAX functions for calculations of average delivery days.
  
 Created visual representations of KPIs like segment-wise and sub-category sales to provide actionable business insights.
 
